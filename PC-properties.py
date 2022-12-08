@@ -2,6 +2,8 @@
 import os,platform
 import time
 
+print("This is your PC properties below: ")
+print("")
 print('Operating system name: ', os.name)
 print('Platform name        : ',platform.system())
 print('This Laptop Processor: ',platform.processor())
