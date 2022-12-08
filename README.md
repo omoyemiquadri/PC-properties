@@ -1,2 +1,2 @@
 # PC-properties
-A python script to check Computer Properties. 
+A python script to check your Computer Properties with just a single click. 
